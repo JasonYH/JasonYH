@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JasonYH)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:coderyu2018@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:robotme@hotmail.com)
 
 &nbsp;
 
@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Design Pattern and Continuous Integration(CircleCI); 
 - 👯 I hope to make some friends who can work remotely 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: coderyu2018@gmail.com;
+- 📫 How to reach me: robotme@hotmail.com;
 
 **Languages and Tools:** 
 

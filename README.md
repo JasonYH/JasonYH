@@ -10,6 +10,8 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+[![Visitor Count](https://profile-counter.glitch.me/JasonYH/count.svg)](https://github.com/JasonYH)
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
